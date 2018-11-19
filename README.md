@@ -2,6 +2,6 @@
 
 `npm install`
 
-# RUN
+# Run
 
 `node index.js`
